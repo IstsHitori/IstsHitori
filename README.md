@@ -12,7 +12,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<h3 align="center">I'm Francisco Javier, I am 21 years old, and I am a software developer in Colombia who is passionate about technology and learning new things every day</h3>
+<h3 align="center">I'm Francisco Javier, I am 21 years old, and I am a Software Engineer in Colombia who is passionate about technology and learning new things every day</h3>
 
 <br><br>
 
